@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/quiz-for-preschooler/static/css/main.ad504b64.chunk.css",
+    "main.js": "/quiz-for-preschooler/static/js/main.690eaf03.chunk.js",
+    "main.js.map": "/quiz-for-preschooler/static/js/main.690eaf03.chunk.js.map",
+    "runtime-main.js": "/quiz-for-preschooler/static/js/runtime-main.6414aef8.js",
+    "runtime-main.js.map": "/quiz-for-preschooler/static/js/runtime-main.6414aef8.js.map",
+    "static/js/2.9780aaa4.chunk.js": "/quiz-for-preschooler/static/js/2.9780aaa4.chunk.js",
+    "static/js/2.9780aaa4.chunk.js.map": "/quiz-for-preschooler/static/js/2.9780aaa4.chunk.js.map",
+    "index.html": "/quiz-for-preschooler/index.html",
+    "precache-manifest.4fe384709b5c251e59629bf79afca0f5.js": "/quiz-for-preschooler/precache-manifest.4fe384709b5c251e59629bf79afca0f5.js",
+    "service-worker.js": "/quiz-for-preschooler/service-worker.js",
+    "static/css/main.ad504b64.chunk.css.map": "/quiz-for-preschooler/static/css/main.ad504b64.chunk.css.map",
+    "static/js/2.9780aaa4.chunk.js.LICENSE.txt": "/quiz-for-preschooler/static/js/2.9780aaa4.chunk.js.LICENSE.txt",
+    "static/media/ambulance.png": "/quiz-for-preschooler/static/media/ambulance.3b976236.png",
+    "static/media/crane.png": "/quiz-for-preschooler/static/media/crane.b1c3bf09.png",
+    "static/media/firetruck.png": "/quiz-for-preschooler/static/media/firetruck.be216c95.png",
+    "static/media/police.png": "/quiz-for-preschooler/static/media/police.b2449a4e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6414aef8.js",
+    "static/js/2.9780aaa4.chunk.js",
+    "static/css/main.ad504b64.chunk.css",
+    "static/js/main.690eaf03.chunk.js"
+  ]
+}
