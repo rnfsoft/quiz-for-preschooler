@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ed47b4ccafa2d4a4cf16e55589438674",
+    "revision": "c97a2be1b2fe6ccb8f39b688309375d9",
     "url": "/quiz-for-preschooler/index.html"
   },
   {
-    "revision": "8ca4d12bde0415e982cf",
+    "revision": "5717c32767ffbb68385e",
     "url": "/quiz-for-preschooler/static/css/main.ad504b64.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/quiz-for-preschooler/static/js/2.9780aaa4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8ca4d12bde0415e982cf",
-    "url": "/quiz-for-preschooler/static/js/main.690eaf03.chunk.js"
+    "revision": "5717c32767ffbb68385e",
+    "url": "/quiz-for-preschooler/static/js/main.6266479f.chunk.js"
   },
   {
     "revision": "e9ff9e80e25561ff33b5",
@@ -37,6 +37,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "b2449a4e6f28631817119aef0130e143",
-    "url": "/quiz-for-preschooler/static/media/police.b2449a4e.png"
+    "url": "/quiz-for-preschooler/static/media/police_car.b2449a4e.png"
   }
 ]);
