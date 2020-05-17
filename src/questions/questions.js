@@ -5,7 +5,7 @@ export const questions = [
       answer_a: "Amblance",
       answer_b: "Crane",
       answer_c:"Firetruck",
-      answer_d: "Police",
+      answer_d: "Police Car",
       correct_answer: "a",
     },
     {
@@ -14,7 +14,7 @@ export const questions = [
       answer_a: "Amblance",
       answer_b: "Crane",
       answer_c:"Firetruck",
-      answer_d: "Police",
+      answer_d: "Police Car",
       correct_answer: "b",
     },
     {
@@ -23,7 +23,7 @@ export const questions = [
       answer_a: "Amblance",
       answer_b: "Crane",
       answer_c:"Firetruck",
-      answer_d: "Police",
+      answer_d: "Police Car",
       correct_answer: "c",
     },
     {
