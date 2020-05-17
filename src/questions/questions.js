@@ -1,0 +1,38 @@
+export const questions = [
+    {
+      id: 1,
+      question: 'ambulance',
+      answer_a: "Amblance",
+      answer_b: "Crane",
+      answer_c:"Firetruck",
+      answer_d: "Police",
+      correct_answer: "a",
+    },
+    {
+      id: 2,
+      question: "crane",
+      answer_a: "Amblance",
+      answer_b: "Crane",
+      answer_c:"Firetruck",
+      answer_d: "Police",
+      correct_answer: "b",
+    },
+    {
+      id: 3,
+      question: "firetruck",
+      answer_a: "Amblance",
+      answer_b: "Crane",
+      answer_c:"Firetruck",
+      answer_d: "Police",
+      correct_answer: "c",
+    },
+    {
+      id: 4,
+      question: "police",
+      answer_a: "Amblance",
+      answer_b: "Crane",
+      answer_c:"Firetruck",
+      answer_d: "Police",
+      correct_answer: "d",
+    },
+  ];
