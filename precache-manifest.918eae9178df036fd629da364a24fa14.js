@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c97a2be1b2fe6ccb8f39b688309375d9",
+    "revision": "413855c56a03194dd6bb018d6d29869a",
     "url": "/quiz-for-preschooler/index.html"
   },
   {
-    "revision": "5717c32767ffbb68385e",
+    "revision": "71755cd3af63a4136477",
     "url": "/quiz-for-preschooler/static/css/main.ad504b64.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/quiz-for-preschooler/static/js/2.9780aaa4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5717c32767ffbb68385e",
-    "url": "/quiz-for-preschooler/static/js/main.6266479f.chunk.js"
+    "revision": "71755cd3af63a4136477",
+    "url": "/quiz-for-preschooler/static/js/main.32c79933.chunk.js"
   },
   {
     "revision": "e9ff9e80e25561ff33b5",

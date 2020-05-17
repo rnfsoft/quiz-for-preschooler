@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/quiz-for-preschooler/static/css/main.ad504b64.chunk.css",
-    "main.js": "/quiz-for-preschooler/static/js/main.6266479f.chunk.js",
-    "main.js.map": "/quiz-for-preschooler/static/js/main.6266479f.chunk.js.map",
+    "main.js": "/quiz-for-preschooler/static/js/main.32c79933.chunk.js",
+    "main.js.map": "/quiz-for-preschooler/static/js/main.32c79933.chunk.js.map",
     "runtime-main.js": "/quiz-for-preschooler/static/js/runtime-main.6414aef8.js",
     "runtime-main.js.map": "/quiz-for-preschooler/static/js/runtime-main.6414aef8.js.map",
     "static/js/2.9780aaa4.chunk.js": "/quiz-for-preschooler/static/js/2.9780aaa4.chunk.js",
     "static/js/2.9780aaa4.chunk.js.map": "/quiz-for-preschooler/static/js/2.9780aaa4.chunk.js.map",
     "index.html": "/quiz-for-preschooler/index.html",
-    "precache-manifest.4ff9e3b9e598abe883708eb0e0e9f22a.js": "/quiz-for-preschooler/precache-manifest.4ff9e3b9e598abe883708eb0e0e9f22a.js",
+    "precache-manifest.918eae9178df036fd629da364a24fa14.js": "/quiz-for-preschooler/precache-manifest.918eae9178df036fd629da364a24fa14.js",
     "service-worker.js": "/quiz-for-preschooler/service-worker.js",
     "static/css/main.ad504b64.chunk.css.map": "/quiz-for-preschooler/static/css/main.ad504b64.chunk.css.map",
     "static/js/2.9780aaa4.chunk.js.LICENSE.txt": "/quiz-for-preschooler/static/js/2.9780aaa4.chunk.js.LICENSE.txt",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.6414aef8.js",
     "static/js/2.9780aaa4.chunk.js",
     "static/css/main.ad504b64.chunk.css",
-    "static/js/main.6266479f.chunk.js"
+    "static/js/main.32c79933.chunk.js"
   ]
 }
