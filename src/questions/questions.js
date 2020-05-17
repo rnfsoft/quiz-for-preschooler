@@ -28,11 +28,11 @@ export const questions = [
     },
     {
       id: 4,
-      question: "police",
+      question: "police_car",
       answer_a: "Amblance",
       answer_b: "Crane",
       answer_c:"Firetruck",
-      answer_d: "Police",
+      answer_d: "Police Car",
       correct_answer: "d",
     },
   ];
